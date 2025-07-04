@@ -1,6 +1,6 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
-import 'main.dart';
+import '../sunset_entry.dart';
 
 class PhotoGallery extends StatelessWidget {
   final List<SunsetEntry> entries;

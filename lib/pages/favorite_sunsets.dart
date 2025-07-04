@@ -1,8 +1,7 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
-import 'package:intl/intl.dart';
-import 'main.dart';
-import 'photo_gallery.dart';
+import '../sunset_entry.dart';
+import '../pages/photo_gallery.dart';
 
 class FavoriteSunsetsPage extends StatelessWidget {
   final List<SunsetEntry> favoriteEntries;
